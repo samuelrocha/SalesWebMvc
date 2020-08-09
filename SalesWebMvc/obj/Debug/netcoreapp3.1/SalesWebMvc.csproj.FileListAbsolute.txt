@@ -161,10 +161,13 @@ C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\runt
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.csproj.CoreCompileInputs.cache
-C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Create.cshtml.g.cs
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
+C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
