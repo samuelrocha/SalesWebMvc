@@ -9,7 +9,7 @@ using SalesWebMvc.Data;
 namespace SalesWebMvc.Migrations
 {
     [DbContext(typeof(SalesWebMvcContext))]
-    [Migration("20200810010732_otherEntities")]
+    [Migration("20200811133520_otherEntities")]
     partial class otherEntities
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -67,6 +67,9 @@ namespace SalesWebMvc.Migrations
                     b.Property<double>("BaseSalary")
                         .HasColumnType("double");
 
+                    b.Property<DateTime>("BirthDate")
+                        .HasColumnType("datetime(6)");
+
                     b.Property<int?>("DepartmentId")
                         .HasColumnType("int");
 
@@ -75,9 +78,6 @@ namespace SalesWebMvc.Migrations
 
                     b.Property<string>("Name")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
-
-                    b.Property<DateTime>("dateTime")
-                        .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
 

@@ -65,6 +65,9 @@ namespace SalesWebMvc.Migrations
                     b.Property<double>("BaseSalary")
                         .HasColumnType("double");
 
+                    b.Property<DateTime>("BirthDate")
+                        .HasColumnType("datetime(6)");
+
                     b.Property<int?>("DepartmentId")
                         .HasColumnType("int");
 
@@ -73,9 +76,6 @@ namespace SalesWebMvc.Migrations
 
                     b.Property<string>("Name")
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
-
-                    b.Property<DateTime>("dateTime")
-                        .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
 
