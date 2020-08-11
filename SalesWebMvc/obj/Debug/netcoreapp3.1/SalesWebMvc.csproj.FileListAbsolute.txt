@@ -171,3 +171,4 @@ C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pome
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.csproj.CoreCompileInputs.cache
 C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\daroc\source\repos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
